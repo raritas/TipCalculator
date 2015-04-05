@@ -14,3 +14,7 @@ Time Spent: 3 hours
 - Font change
 - App icon image
 - Shows Split amount between 1~4 people
+
+[GIF]
+![](https://www.dropbox.com/s/mmgmzbh9lxds76v/TipCalc_June.gif?dl=0)
+
