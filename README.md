@@ -15,6 +15,8 @@ Time Spent: 3 hours
 - App icon image
 - Shows Split amount between 1~4 people
 
-[GIF]
-<embed/>https://www.dropbox.com/s/mmgmzbh9lxds76v/TipCalc_June.gif?dl=0</>
+[GIF] - Wasn't able to find a way to attach GIF file to README.MD
+
+https://www.dropbox.com/s/mmgmzbh9lxds76v/TipCalc_June.gif?dl=0
+
 
