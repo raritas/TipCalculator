@@ -3,6 +3,7 @@
 This is a calculator which returns tip amount based on billings.
 
 Time Spent: 3 hours
+
 [Completed Required User Stories]
 - Tip amounts are calculated
 - Users can easily change tip percentages: 18% / 20% / 22%
